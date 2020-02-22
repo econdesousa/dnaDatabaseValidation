@@ -1,0 +1,1 @@
+Scripts developed to identify and correct inaccuracies, such as erroneous/incomplete metadata or poor DNA sequences quality in public genetic databases, providing the users with a tool able to aid the decisions on the species identification of unknown (or disputed) samples in a simple, visual and semi-automated way.
